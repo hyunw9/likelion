@@ -96,7 +96,7 @@ const savedToDos = localStorage.getItem(TODOS_KEY);
 //savedToDos가 localStorage에 존재한다면,
 if (savedToDos !== null) {
 
-  //
+  //git
   const parsedToDos = JSON.parse(savedToDos);
 
   //toDos에 이를 할당,
