@@ -13,7 +13,7 @@ const register = async (req, res) => {
             email
         }
     });
-    //눙마ㅣㄴ어ㅏㅣㅁ너안미ㅓㅏㅣ너아ㅣㅁ너아ㅣㅁ너나어ㅏㅣ
+   
     if(exist){
         throw new APIError(httpStatus.BAD_REQUEST, errorCodes.EMAIL_ALREADY_EXISTS);
     }
