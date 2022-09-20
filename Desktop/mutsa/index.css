@@ -1,0 +1,128 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap
+);
+
+*{
+    font-family:Montserrat;
+}
+
+.titlebox{
+    text-align: center;
+    
+    padding: 20px;
+    padding-bottom: 10px;
+    overflow:hidden;
+    line-height: 16px;
+    
+
+}
+
+.etc{
+    text-align: left;
+    padding-left:20px;
+    font-size:20px;
+    padding-top:10px;
+    
+}
+.meaningless{
+    text-align: left;
+    float:left;
+   
+}
+.rmeaningless{
+    text-align: right;
+    float: right;
+   
+}
+
+.view{
+    margin-left: auto;
+    margin-right: auto;
+    width : 600px;
+    height: auto;
+    
+    padding-bottom: 25px;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+.main-box{
+    padding-top:20px;
+    text-align: center;
+    
+    
+
+}
+.left{
+    padding-top:40px;
+    text-align: left;
+    float: left;
+    padding-left: 20px;
+    clear:left;
+    
+}
+
+.right{
+    text-align: right;
+    float:right;
+    padding-right: 20px;
+    padding-top:40px;
+    border-bottom: 1px solid black;
+    clear:right;
+}
+.total{
+    padding-top: 20px;
+    clear:right;
+    text-align: right;
+    float: right;
+    padding-right:20px;
+    
+    
+    
+}
+.hobby{
+    clear:both;
+    border-top: 1px dotted black;
+    padding-top: 20px;
+    padding-left: 20px; 
+    text-align: left;
+    border-bottom: 2px dotted black;
+}
+.hobbytitle{
+    clear:both;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top:10px;
+    
+}
+
+.hobbys{
+    clear:both;
+    padding-top: 20px;
+    overflow:hidden;
+    padding:20px;
+    border-bottom : 2px dotted black;
+}
+.lefthobby{
+    float:left;
+    padding-left: 20px;
+    text-align: left;
+    padding-top:20px;
+
+}
+.used{
+    float:right;
+    padding-right: 20px;
+    text-align:right;
+    padding-top:20px;
+}
+.numbers{
+    padding-top: 20px;
+    padding-left: 20px;
+    clear:both;
+    text-align: left;
+    
+    
+}
+.sns{
+    float:top;
+    padding-right:20px;
+}
